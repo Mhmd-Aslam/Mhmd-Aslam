@@ -17,6 +17,7 @@
 ## 🚀 Featured Projects  
 🔹 **[ShieldX Antivirus](https://github.com/Mhmd-Aslam/project-av)** – A GUI-based malware detection tool using AI  
 🔹 **[Love app](https://github.com/Mhmd-Aslam/Love-app)** – A Python-based funny android app
+🔹 **[Excuse Generator](https://github.com/Mhmd-Aslam/Excuse-Generator)** – A Python-based Excuse Generator app
 
 ---
 
