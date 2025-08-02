@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Featured Projects  
-🔹 **[ShieldX Antivirus](https://github.com/Mhmd-Aslam/project-av)** – A GUI-based malware detection tool using AI  
+🔹 **[ShieldX Antivirus](https://github.com/Mhmd-Aslam/ShieldX-Antivirus)** – A GUI-based malware detection tool using AI  
 🔹 **[Fezla Crypter](https://github.com/Mhmd-Aslam/Fezla-Crypter)** – A Secure communication encryption app  
 
 ---
