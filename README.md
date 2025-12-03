@@ -14,6 +14,9 @@
 
 ---
 
+![Metrics](https://metrics.lecoq.io/Mhmd-Aslam?template=classic&base.header=0&base.activity=0&config.timezone=Asia%2FKolkata)
+
+
 ## 🚀 Featured Projects  
 🔹 **[ShieldX Antivirus](https://github.com/Mhmd-Aslam/ShieldX-Antivirus)** – A GUI-based malware detection tool using AI  
 🔹 **[Fezla Crypter](https://github.com/Mhmd-Aslam/Fezla-Crypter)** – A Secure communication encryption app  
