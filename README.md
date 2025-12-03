@@ -14,6 +14,10 @@
 
 ---
 
+## 📊 GitHub Stats 
+![Your GitHub Stats](github-readme-stats-api.herokuapp.com) ![Top Languages](github-readme-stats-api.herokuapp.com)
+
+
 ## 🚀 Featured Projects  
 🔹 **[ShieldX Antivirus](https://github.com/Mhmd-Aslam/ShieldX-Antivirus)** – A GUI-based malware detection tool using AI  
 🔹 **[Fezla Crypter](https://github.com/Mhmd-Aslam/Fezla-Crypter)** – A Secure communication encryption app  
