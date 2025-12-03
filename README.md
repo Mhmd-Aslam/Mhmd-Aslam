@@ -13,10 +13,6 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mhmd-Aslam&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmd-Aslam&layout=compact&theme=radical)  
 
 ---
-![Aslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mhmd-Aslam&show_icons=true&count_private=true&theme=radical&cache_seconds=7200)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmd-Aslam&layout=compact&theme=radical&cache_seconds=7200)
-
 
 ## 🚀 Featured Projects  
 🔹 **[ShieldX Antivirus](https://github.com/Mhmd-Aslam/ShieldX-Antivirus)** – A GUI-based malware detection tool using AI  
