@@ -15,8 +15,8 @@
 ---
 
 ## 🚀 Featured Projects  
-🔹 **[ShieldX Antivirus](https://github.com/Mhmd-Aslam/ShieldX-Antivirus)** – A GUI-based malware detection tool using AI  
-🔹 **[Fezla Crypter](https://github.com/Mhmd-Aslam/Fezla-Crypter)** – A Secure communication encryption app  
+🔹 **[Wibe Crawler](https://github.com/Mhmd-Aslam/wibe-crawler)** – An AI-Powered Autonomous Penetration Testing System  
+🔹 **[Obscura](https://github.com/Mhmd-Aslam/Obscura)** – A Security suite for encryption, steganography, watermarking, hashing and analysis.  
 
 ---
 
