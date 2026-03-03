@@ -25,9 +25,15 @@
 <a href="https://www.linkedin.com/in/muhammad-aslam-a-a8710221a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50">
 </a>
+
 <a href="mailto:aslamaass108@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50">
 </a>
+
 <a href="https://www.instagram.com/mhmd__aslam__/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50">
+</a>
+
+<a href="https://mhmdaslam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="50">
 </a>
